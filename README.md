@@ -61,7 +61,7 @@ CREATE TABLE batch_production
 	);
 ```
 
-### 2. 2. Exploratory Data Analysis (EDA) & Data Cleaning
+### 2. Exploratory Data Analysis (EDA) & Data Cleaning
 
 -- Checking Null Values & Cleaning
 
